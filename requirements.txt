@@ -29,4 +29,3 @@ trio-websocket
 urllib3
 virtualenv
 wsproto
-tlqkf wlsWk whssk djfuqsp
